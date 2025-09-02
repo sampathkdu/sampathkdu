@@ -30,6 +30,4 @@
 
 ####
 
-<img src="https://raw.githubusercontent.com/C-Lakshan/C-Lakshan/output/snake.svg" alt="Snake animation" />
 
-###
