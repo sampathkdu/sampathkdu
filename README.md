@@ -37,7 +37,7 @@
 
   </td>
   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-Lakshan&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+      <img src="https://streak-stats.demolab.com?user=C-Lakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </td>
 </tr>
 </table>
