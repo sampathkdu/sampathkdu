@@ -22,7 +22,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=C-Lakshan&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=C-Lakshan&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
   </td>
   <td>
